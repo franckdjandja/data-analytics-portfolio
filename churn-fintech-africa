@@ -1,0 +1,8 @@
+churn-fintech-africa/
+│
+├── data/
+├── r_scripts/
+├── report/
+│   └── churn_analysis.Rmd
+├── dashboard/
+└── README.md
