@@ -2,7 +2,7 @@
 
 ## Business Context
 
-Customer retention is a critical challenge for African fintech companies operating in competitive and price-sensitive markets. Reducing churn directly impacts customer lifetime value and long-term profitability.
+Customer retention is a critical challenge for African fintech companies operating in competitive and price-sensitive markets. Reducing churn directly impacts customer lifetime value and long-term profitability..
 
 ## Business Problem
 
