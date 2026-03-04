@@ -126,9 +126,7 @@ Reducing churn by 5% could:
 - R
 - R Markdown
 - Tableau
-- Random Forest
-- Caret
-- pROC
+- SQL
 
 ---
 
