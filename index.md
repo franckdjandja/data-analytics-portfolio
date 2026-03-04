@@ -1,7 +1,7 @@
 # Djandja Tomwa Franck Junior
 
 ## Data Analyst | Business & Predictive Analytics  
-Focused on Industrial & Economic Transformation in Africa
+Focused on Industrial & Economic Transformation in Africa 
 
 ---
 
