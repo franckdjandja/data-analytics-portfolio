@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+[Home](./) | [About](./about) | [Projects](./projects) | [Contact](./contact)
 
 # About Me
 
