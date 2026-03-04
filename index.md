@@ -25,6 +25,6 @@ This project explores how predictive analytics can reduce customer churn and imp
 
 ---
 
-### Tools
+## Tools & Technologies
 
-R | Tableau | SQL | Machine Learning | Business Intelligence
+Python | R | SQL | Tableau | Machine Learning | Business Intelligence
