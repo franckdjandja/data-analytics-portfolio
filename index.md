@@ -1,30 +1,24 @@
-# Djandja Tomwa Franck Junior
+---
+layout: default
+title: Home
+---
 
-## Data Analyst | Business & Predictive Analytics  
-Focused on Industrial & Economic Transformation in Africa 
+# Franck Djandja
+### Data Analyst | Business & Predictive Analytics
+Focused on Industry & Fintech Africa
 
 ---
 
-###  Featured Project
-
-## Predictive Customer Churn in African Fintech
-
-This project explores how predictive analytics can reduce customer churn and improve retention strategies in competitive fintech environments.
-
- [View Project](./churn-fintech-africa/README.md)
+[Home](./) | [About](./about) | [Projects](./projects) | [Contact](./contact)
 
 ---
 
-### Core Competencies
+## Featured Project
 
-- Predictive Modeling
-- Business Analytics
-- Data Storytelling
-- Industrial Performance Analysis
-- Strategic KPI Design
+### Predictive Customer Churn – African Fintech
 
----
+Applying predictive analytics to identify at-risk customers and improve retention.
 
-## Tools & Technologies
+**Tech Stack:** Python, R, Tableau, SQL
 
-Python | R | SQL | Tableau | Machine Learning | Business Intelligence
+👉 [View Full Analysis](./churn-fintech-africa/)
