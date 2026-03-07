@@ -87,7 +87,7 @@ These features allow the model to capture **customer behavioral dynamics** beyon
 
 # 4. Exploratory & Visual Insights
 
-![Customer Churn Dashboard](dashboard.png)
+![Customer Churn Dashboard](Fintech_Churn_Strategy_Dashboard.png)
 
 The exploratory analysis was conducted using **R Markdown**, while interactive visualizations were developed with **Tableau**.
 
@@ -107,7 +107,7 @@ Even marginal improvements in retention could produce significant revenue gains 
 
 ## 4.2 Customer Lifetime vs Churn
 
-![Churn by_tenure](churn_by_tenure.png)
+![Churn by_tenure](Churn_by_Tenure.png)
 Analysis reveals that churn is strongly concentrated among **low-tenure customers**.
 
 ### Interpretation
@@ -127,7 +127,7 @@ Fintech companies should prioritize early lifecycle retention strategies such as
 
 ## 4.3 Contract Type vs Churn
 
-![Churn Contract](churn_contract.png)
+![Churn Contract](Churn_by_Contract.png)
 
 Customers using **monthly subscription contracts** show significantly higher churn rates compared to those subscribed to long-term plans.
 
@@ -148,7 +148,7 @@ Retention strategies could include:
 
 ## 4.4 Payment Method vs Churn
 
-![Churn Payment](churn_payment.png)
+![Churn Payment](Churn_by_Payment.png)
 
 Customers using **automated payment methods** demonstrate stronger retention compared to customers using manual payment processes.
 
