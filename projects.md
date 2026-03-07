@@ -9,7 +9,9 @@ title: Projects
 
 ## Predictive Customer Churn – African Fintech
 
-A predictive analytics project designed to identify at-risk customers in competitive fintech markets.
+A predictive analytics project exploring customer churn drivers in African fintech markets.
+
+[Read Full Case Study](churn-fintech-africa.html)
 
 **Tech Stack:** Python, R, SQL, Tableau
 
