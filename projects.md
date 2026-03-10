@@ -26,8 +26,14 @@ A predictive analytics project exploring customer churn drivers in African finte
 👉 [Explore Full Project](./churn-fintech-africa/README.md)
 
 ---
+## African Logistics Performance Optimization
+
+Supply chain analytics project analyzing delivery delays, logistics efficiency, and cost optimization across African logistics networks.
+
+Tools used: R, Tableau, Data Visualization
+
+[View Project](https://github.com/franckdjandja/african-logistics-performance-optimization)
 
 ## Upcoming Projects
 
-- Logistics Performance Optimization  
 - Market Sentiment & Trend Analysis
