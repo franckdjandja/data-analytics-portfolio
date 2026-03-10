@@ -274,10 +274,8 @@ These tools enable a complete data analytics workflow from exploration to strate
 
 # Author
 
-Franck Junior Djandja Tomwa  
+Franck Djandja   
 Data Analyst | Predictive & Business Analytics  
-Industry & Fintech Africa Focus  
-Data Analyst | Predictive & Business Analytics  
-Industry & Fintech Africa Focus
+Industry  Africa Focus
 
 ---
