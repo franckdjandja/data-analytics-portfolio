@@ -15,15 +15,7 @@ A predictive analytics project exploring customer churn drivers in African finte
 
 **Tech Stack:** Python, R, SQL, Tableau
 
-### Status
-
-- Data Preparation ✅
-- Feature Engineering ✅
-- Modeling ✅
-- Visualizations 🔄 (To be integrated)
-- Performance Optimization 🔄
-
-👉 [Explore Full Project](./churn-fintech-africa/README.md)
+ [Explore Full Project](./churn-fintech-africa/README.md)
 
 ---
 ## African Logistics Performance Optimization
