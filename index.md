@@ -11,7 +11,7 @@ title: Projects
 
 A predictive analytics project exploring customer churn drivers in African fintech markets.
 
-[Read Full Case Study](churn-fintech-africa.html)
+[Read Full Case Study](https://github.com/franckdjandja/data-analytics-portfolio/blob/main/README.md)
 
 **Tech Stack:** Python, R, SQL, Tableau
 
